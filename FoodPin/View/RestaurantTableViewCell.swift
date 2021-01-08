@@ -33,3 +33,4 @@ class RestaurantTableViewCell: UITableViewCell {
     }
 
 }
+

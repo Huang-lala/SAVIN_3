@@ -2,17 +2,17 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "UNI.jpg",
+      "filename" : "QueenShop.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "UNI-1.jpg",
+      "filename" : "QueenShop-2.jpg",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "UNI-2.jpg",
+      "filename" : "QueenShop-3.jpg",
       "scale" : "3x"
     }
   ],

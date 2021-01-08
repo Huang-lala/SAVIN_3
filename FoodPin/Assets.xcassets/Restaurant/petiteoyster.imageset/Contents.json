@@ -1,23 +1,23 @@
 {
   "images" : [
     {
-      "filename" : "petiteoyster.jpg",
       "idiom" : "universal",
+      "filename" : "GU_3.jpg",
       "scale" : "1x"
     },
     {
-      "filename" : "petiteoyster@2x.jpg",
       "idiom" : "universal",
+      "filename" : "GU_3-1.jpg",
       "scale" : "2x"
     },
     {
-      "filename" : "petiteoyster@3x.jpg",
       "idiom" : "universal",
+      "filename" : "GU_3-2.jpg",
       "scale" : "3x"
     }
   ],
   "info" : {
-    "author" : "xcode",
-    "version" : 1
+    "version" : 1,
+    "author" : "xcode"
   }
 }
